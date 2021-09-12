@@ -1,0 +1,5 @@
+**/.git
+/build
+README.md
+/node_modules
+*.pb.go
