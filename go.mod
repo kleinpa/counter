@@ -3,6 +3,7 @@ module github.com/kleinpa/counter
 go 1.16
 
 require (
+	github.com/go-redis/redis/v8 v8.11.3
 	github.com/google/uuid v1.3.0
 	github.com/improbable-eng/grpc-web v0.14.1
 	github.com/klauspost/compress v1.13.5 // indirect
